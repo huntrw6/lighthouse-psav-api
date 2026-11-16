@@ -1,0 +1,14 @@
+# secrets / personal state: never commit
+lighthouse.json
+icloud.json
+login.lock
+calendar-state.json
+snapshot.json
+outbox.txt
+raw-latest.json
+locations.json
+chrome-profile/
+logs/
+venv/
+__pycache__/
+.pytest_cache/
